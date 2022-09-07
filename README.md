@@ -20,10 +20,4 @@ CREATE TABLE users (
   location TEXT
 );
 ```
-
-## Author
-
-I am Shubham Chadokar. I am Software Engineer and work mostly on backend development.
-I love write the articles and tutorials on Golang, Nodejs, Blockhain.
-You can read all my articles and tutorials [here](https://schadokar.dev).  
-# go-gres
+ 
